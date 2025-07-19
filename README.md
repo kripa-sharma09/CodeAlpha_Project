@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# 🚀 CodeAlpha AI Internship Projects — By Kripa Sharma  
+
+# 🚀 CodeAlpha AI Internship Projects
 
 Welcome to my collection of AI projects completed during the *CodeAlpha AI Internship (July 2025 Batch)*.  
 Each task showcases practical applications of AI & Python — deployed, documented, and designed with care!  
@@ -18,8 +18,9 @@ A Streamlit-powered app that translates text with Text-to-Speech (TTS) & Downloa
 
 ---
 
-## ✅ Task 3 — (Coming Soon)  
-🎯 Task description placeholder    
+## ✅ Task 3 - AI Music Generator
+📁 Folder: Task_3_Music_Generation_AI
+   
 
 ---
 
@@ -30,7 +31,7 @@ A Streamlit-powered app that translates text with Text-to-Speech (TTS) & Downloa
 
 ---
 
-## ✨ Made with ❤ by [Kripa Sharma](https://github.com/KripaSharma09)
-=======
+## ✨ Made with ❤ by [Kripa Sharma](https://github.com/kripa-sharma09)
+
 # CodeAlpha_Project
->>>>>>> e48d72c8c3f6980eddb456f24b3f080962cf64fc
+
