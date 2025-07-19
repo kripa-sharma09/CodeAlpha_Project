@@ -1,0 +1,23 @@
+faqs = [
+    {"question": "What is Git?", "answer": "Git is a distributed version control system used to track changes in source code."},
+    {"question": "What is GitHub?", "answer": "GitHub is a web-based hosting service for Git repositories."},
+    {"question": "Difference between Git and GitHub?", "answer": "Git is a version control system; GitHub hosts Git repositories online."},
+    {"question": "How to initialize a Git repo?", "answer": "Use git init to initialize a new Git repository."},
+    {"question": "How to check Git repo status?", "answer": "Use git status to check changes and staging."},
+    {"question": "What is a Git commit?", "answer": "A commit saves changes to the repository history."},
+    {"question": "How to push code to GitHub?", "answer": "Use git push origin main to upload code."},
+    {"question": "How to clone a GitHub repo?", "answer": "Use git clone <repo_url> to copy a repository."},
+    {"question": "What is a pull request?", "answer": "A pull request lets you propose code changes for review."},
+    {"question": "How to resolve merge conflicts?", "answer": "Manually edit conflicting files, then add and commit."},
+    {"question": "How to switch between branches in Git?", "answer": "Use git checkout <branch_name> to switch branches."},
+    {"question": "How to create a new branch in Git?", "answer": "Use git branch <new_branch_name> to create a branch."},
+    {"question": "What is git fetch?", "answer": "git fetch downloads updates from the remote repository but doesn’t merge them."},
+    {"question": "What is git pull?", "answer": "git pull fetches updates from the remote repository and merges them into your local branch."},
+    {"question": "What is git merge?", "answer": "git merge combines the histories of two branches."},
+    {"question": "How to delete a branch in Git?", "answer": "Use git branch -d <branch_name> to delete a branch locally."},
+    {"question": "How to stash changes in Git?", "answer": "Use git stash to temporarily save uncommitted changes."},
+    {"question": "What is git revert?", "answer": "git revert undoes a specific commit by creating a new one."},
+    {"question": "What is git reset?", "answer": "git reset can undo commits and changes depending on the mode used."},
+    {"question": "How to fork a repository on GitHub?", "answer": "Click the Fork button on a GitHub repository page to create your own copy."},
+    {"question": "Hi", "answer": "Hello there!!"}
+]
