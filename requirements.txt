@@ -1,6 +1,0 @@
-music21
-numpy
-keras
-tensorflow
-streamlit
-pydub
